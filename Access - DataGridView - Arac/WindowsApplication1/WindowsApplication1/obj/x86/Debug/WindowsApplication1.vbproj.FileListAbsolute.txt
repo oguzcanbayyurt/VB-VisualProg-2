@@ -1,0 +1,20 @@
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Oğuzcan\Dersler\Üniversite Dersler\2.Sınıf\2.Dönem\Görsel Programlama 2\23.03.2016\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Oğuzcan\Dersler\Üniversite Dersler\2.Sınıf\2.Dönem\Görsel Programlama 2\23.03.2016\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Oğuzcan\Dersler\Üniversite Dersler\2.Sınıf\2.Dönem\Görsel Programlama 2\23.03.2016\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Oğuzcan\Dersler\Üniversite Dersler\2.Sınıf\2.Dönem\Görsel Programlama 2\23.03.2016\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Oğuzcan\Dersler\Üniversite Dersler\2.Sınıf\2.Dönem\Görsel Programlama 2\23.03.2016\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Oğuzcan\Dersler\Üniversite Dersler\2.Sınıf\2.Dönem\Görsel Programlama 2\23.03.2016\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Oğuzcan\Dersler\Üniversite Dersler\2.Sınıf\2.Dönem\Görsel Programlama 2\23.03.2016\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Oğuzcan\Dersler\Üniversite Dersler\2.Sınıf\2.Dönem\Görsel Programlama 2\23.03.2016\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Oğuzcan\Dersler\Üniversite Dersler\2.Sınıf\2.Dönem\Görsel Programlama 2\23.03.2016\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
