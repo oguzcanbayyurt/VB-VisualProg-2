@@ -1,0 +1,11 @@
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication8\WindowsApplication8\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication8\WindowsApplication8\obj\x86\Debug\WindowsApplication8.Form1.resources
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication8\WindowsApplication8\obj\x86\Debug\WindowsApplication8.Resources.resources
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication8\WindowsApplication8\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication8\WindowsApplication8\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication8\WindowsApplication8\obj\x86\Debug\WindowsApplication8.exe
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication8\WindowsApplication8\obj\x86\Debug\WindowsApplication8.xml
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication8\WindowsApplication8\obj\x86\Debug\WindowsApplication8.pdb
