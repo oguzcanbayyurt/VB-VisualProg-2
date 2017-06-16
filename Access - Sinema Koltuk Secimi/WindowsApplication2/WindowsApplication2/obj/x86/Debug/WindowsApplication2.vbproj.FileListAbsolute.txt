@@ -1,0 +1,25 @@
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\veri.accdb
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\ADMİN55\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\ADMİN55\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\ADMİN55\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\ADMİN55\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\veri.accdb
+C:\Users\ADMİN55\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\ADMİN55\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\ADMİN55\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\ADMİN55\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+C:\Users\ADMİN55\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\ADMİN55\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\Oğuzcan\Dersler\Üniversite Dersler\2.Sınıf\2.Dönem\Görsel Programlama 2\23.03.2016\Örnek2\hocaya gönderdiğim\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+D:\Oğuzcan\Dersler\Üniversite Dersler\2.Sınıf\2.Dönem\Görsel Programlama 2\23.03.2016\Örnek2\hocaya gönderdiğim\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+D:\Oğuzcan\Dersler\Üniversite Dersler\2.Sınıf\2.Dönem\Görsel Programlama 2\23.03.2016\Örnek2\hocaya gönderdiğim\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
