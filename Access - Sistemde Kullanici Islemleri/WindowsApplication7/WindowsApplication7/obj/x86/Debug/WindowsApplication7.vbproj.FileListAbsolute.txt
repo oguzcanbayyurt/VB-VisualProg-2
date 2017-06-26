@@ -1,0 +1,11 @@
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Form1.resources
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Resources.resources
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.exe
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.xml
+d:\users\ögrenci01\documents\visual studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.pdb
